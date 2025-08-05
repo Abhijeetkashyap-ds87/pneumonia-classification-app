@@ -1,0 +1,14 @@
+# Core ML libraries
+torch==2.6.0
+torchvision==0.21.0
+scikit-learn==1.2.2
+numpy==1.26.4
+pandas==2.2.3
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+pillow==11.2.1
+
+# Streamlit app
+streamlit==1.47.1

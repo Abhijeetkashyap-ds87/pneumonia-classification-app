@@ -1,0 +1,7 @@
+# Virtual enviorment 
+kaggle_env/
+
+# OS specific files
+.DS_Store
+__pycache__/
+*.pyc
